@@ -1,0 +1,6 @@
+@CardapioOnlineAPI_HostAddress = http://localhost:5231
+
+GET {{CardapioOnlineAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
